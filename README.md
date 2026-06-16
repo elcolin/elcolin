@@ -12,21 +12,7 @@ My name is Elise.
 
 ## tech stack
 
-### Coding
-
-    C++, Python, bash
-
-### Tools & Deployment
-
-    Podman, Docker, CMake, Git
-
-### Distro
-
-    Linux (Fedora, Xubuntu), MacOs (Apple Silicon).
-
-### Design & Prototyping
-
-    Fusion360, Onshape, Kicad
+![tech stack](techstack.png)
 
 You can check some of my Fusion360 work on [ORP](https://openroboticplatform.com/user:ColorGama).
 
