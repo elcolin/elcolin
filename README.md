@@ -31,7 +31,7 @@ An autonomous robot featuring:
 
 ### Self Driving Car
 
-As part of my work, I implemented a Pure Pursuit path-tracking controller in C++ and developed speed control algorithms for a robotized [Renault Zoe](https://cristal.univ-lille.fr/pretil/robots/zoe/).
+As part of my work, I implemented a **Pure Pursuit** path-tracking controller in C++ and developed **speed control** algorithms for a robotized [Renault Zoe](https://cristal.univ-lille.fr/pretil/robots/zoe/).
 
 ### Learn2Slither
 
