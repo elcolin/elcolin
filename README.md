@@ -38,6 +38,8 @@ As part of my work, I implemented a **Pure Pursuit** path-tracking controller in
 A **reinforcement learning** project based on the classic Snake game.  
 Teaching an agent how not to embarrass itself.
 
+![Snake Gif](snake.gif)
+
 ### ft_traceroute
 
 A reimplementation of traceroute written from scratch.  
